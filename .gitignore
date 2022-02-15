@@ -1,0 +1,7 @@
+# Specific file to be ignored
+
+/data/privateDataa.txt
+
+# Specific folder to be ignored
+
+/privateFolder/*
