@@ -1,7 +1,7 @@
 # Specific file to be ignored
 
-/data/privateData.txt
+data/privateData.txt
 
 # Specific folder to be ignored
 
-/privateFolder/*
+privateFolder/*
