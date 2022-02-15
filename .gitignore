@@ -4,4 +4,4 @@ data/privateData.txt
 
 # Specific folder to be ignored
 
-/privateFolder
+data/privateFolder
